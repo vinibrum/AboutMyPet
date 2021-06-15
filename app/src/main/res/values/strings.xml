@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">AboutMyPet</string>
+    <string name="pet_name">Rex</string>
+    <string name="star_img_content_description">Uma estrela de quatro pontas de cor amarela</string>
+    <string name="text_pet_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris varius metus semper luctus aliquam. Nunc egestas neque eleifend, gravida libero sit amet,
+        gravida nisi. Nulla elementum sodales lorem quis ultrices. Vivamus porta lacus malesuada mauris pretium aliquam. Fusce a dolor diam. Aliquam fermentum molestie
+        consectetur. Proin vitae ex ac sem pellentesque euismod. Suspendisse maximus tellus et nibh maximus aliquam. Donec dui mi, accumsan at lacinia a, tristique ac libero.
+        Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam feugiat sapien id enim pretium, non cursus orci imperdiet.
+        Nullam sollicitudin volutpat sem varius sagittis. Cras lacinia, risus ac finibus facilisis, augue turpis ornare eros, quis finibus diam dui vel quam. Aenean id tincidunt enim.
+        Praesent blandit ipsum in enim facilisis, ac iaculis ipsum imperdiet. Praesent justo nibh, mattis et odio ut, laoreet varius urna. Class aptent taciti sociosqu ad litora torquent
+        per conubia nostra, per inceptos himenaeos. Nulla facilisi. Maecenas facilisis elit id rutrum imperdiet. Pellentesque in sollicitudin dolor, ac vehicula leo. Quisque tincidunt
+        porta arcu vel semper. Duis a posuere ligula, in iaculis dolor. Sed rutrum eros quis urna rutrum, non posuere turpis congue. Ut a lacinia ipsum. Vivamus id risus consequat,
+        hendrerit nibh non, placerat quam. Etiam dapibus aliquam libero, nec volutpat augue. Aenean lobortis nisl lectus, tincidunt sagittis quam condimentum quis. Nullam ac sem dui.
+        Etiam nec consectetur nisi. Maecenas turpis tellus, consectetur ut lacinia nec, dapibus ac ante. Etiam a tortor varius, egestas nulla id, pharetra metus. Donec eu ante id sapien
+        egestas pulvinar quis in dui. Praesent ultricies, magna ut blandit elementum, turpis nulla tempor velit, nec euismod nibh dolor at dui. Morbi id nibh in sapien mollis dapibus a
+        non augue. Aenean lorem felis, gravida et iaculis ut, pharetra quis neque. Integer tincidunt leo non orci suscipit venenatis. Nulla gravida mattis arcu in porttitor. Nulla et
+        neque commodo, sagittis nisl eu, congue nisi. Aliquam condimentum vestibulum magna, et suscipit felis tempus sit amet. Pellentesque rutrum justo ac est malesuada cursus.
+        Donec a mattis arcu. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris nec turpis odio. Morbi nec nunc mollis nulla porttitor
+        ullamcorper malesuada et elit. In aliquet velit vitae mi tempus molestie. Vestibulum commodo ac elit non aliquet. Vestibulum sagittis ante non est venenatis feugiat. Sed in eros sem.
+        Proin interdum nisi vitae tellus varius ullamcorper. In molestie finibus sapien in lobortis. Morbi consequat orci sit amet semper dapibus. Praesent nec tempor quam, vel pulvinar arcu.
+        Ut porta scelerisque leo, rhoncus euismod nisl porttitor sit amet. Vestibulum ac sem tempor, porttitor lectus vitae, ornare augue. Vestibulum finibus nunc quis erat bibendum,
+        vitae cursus ante aliquam. In hac habitasse platea dictumst. Etiam leo erat, scelerisque eget eros nec, luctus faucibus enim. In porttitor tincidunt metus ac venenatis.
+        Etiam faucibus sit amet orci a euismod. Suspendisse ut odio accumsan, hendrerit arcu a, finibus velit. Etiam pharetra, dolor eu malesuada rutrum, orci ante pharetra justo,
+        facilisis volutpat risus dui sit amet nisi. Cras interdum mattis ligula in vulputate. Maecenas cursus imperdiet feugiat. Vivamus at turpis massa. Morbi vel elit venenatis,
+        mollis mauris facilisis, dignissim arcu. Nam sagittis dui non mi bibendum, ut ultricies ligula dictum. Fusce cursus blandit tortor a vulputate. Etiam mollis eleifend pharetra.
+        Donec vulputate nisl a neque interdum, non fringilla nulla porttitor. Cras vel scelerisque felis. Pellentesque tincidunt nec diam ac volutpat. Integer mollis nunc orci, ut
+        scelerisque magna bibendum sed. Pellentesque hendrerit, dui eget pellentesque luctus, nisi est porta ligula, ac dictum lorem magna a nunc. Praesent sollicitudin tortor tempor,
+        ultrices mi ac, eleifend ante. Aliquam a metus sed elit blandit semper et in turpis. Vivamus sed neque vestibulum, euismod felis ut, viverra lectus. Praesent vel aliquam sem,
+        eu sollicitudin nisl. Fusce euismod purus tristique, fermentum ligula vel, egestas arcu.
+    </string>
+</resources>
